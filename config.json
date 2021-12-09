@@ -1,0 +1,7 @@
+{   
+    "APPLICATION_ROOT": "/",
+    "DEBUG": true,
+    "ENV": "development",
+    "SECRET_KEY": "development key"
+}
+   
